@@ -1,4 +1,4 @@
-const RestfullController = require("../../dist/controllers/RestfullController");
+const RestfullController = require("dane.js/controllers/RestfullController");
 
 module.exports = class RestController extends RestfullController
 {
