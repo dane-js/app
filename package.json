@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/dane-js/app#readme",
   "dependencies": {
-    "dane.js": "0.0.2"
+    "dane.js": "0.0.4"
   }
 }
