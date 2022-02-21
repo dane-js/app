@@ -26,7 +26,7 @@
 	},
 	"homepage": "https://github.com/dane-js/app#readme",
 	"dependencies": {
-	  "dane.js": "0.0.8"
+	  "dane.js": "0.0.10"
 	},
 	"peerDependenciesMeta": {
 		"sequelize": {
